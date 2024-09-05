@@ -1,0 +1,9 @@
+## Exercício 4 >
+
+O objeto 'faturamento' contém os valores de faturamento para cada estado e a categoria "Outros".
+
+Utilizado Object.values(faturamento).reduce() para somar todos os valores de faturamento, resultando no faturamento total.
+
+A função calcularPercentual calcula o percentual de faturamento de um estado em relação ao faturamento total.
+
+Iterando sobre cada estado no objeto faturamento, calculamos o percentual usando a função calcularPercentual, e exibimos o resultado formatado com duas casas decimais.

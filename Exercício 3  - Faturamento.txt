@@ -1,0 +1,16 @@
+## Exercício 3 >
+
+Dados de Faturamento:
+Os valores de faturamento diário são inseridos diretamente no código como um array de double.
+
+Lógica de Cálculo:
+A lógica para calcular o menor, maior, e a média dos faturamentos, assim como a contagem dos dias acima da média, é implementada em métodos simples.
+Resultado:
+
+O programa imprime o menor faturamento, o maior faturamento e o número de dias com faturamento acima da média.
+
+Não foi utilizados bibliotecas externas como Gson ou configurados projetos Maven.
+
+Como Executar:
+Utilize o comando para compilar : javac FaturamentoDistribuidora.java
+Utilize o comando para execução: java FaturamentoDistribuidora
