@@ -17,6 +17,8 @@ Execução:
 Compile usando o comando: javac SomaIndices.java
 Execute usando o comando: java SomaIndices
 
+![Imagem](./Soma%20Indices.png)
+
 ## Exercício 2 > Fibonacci >
 Como o código funciona:
 Importação e Classe Principal: O programa começa importando a classe Scanner para ler a entrada do usuário e define a classe FibonacciChecker.
@@ -38,6 +40,8 @@ Execute usando java FibonacciChecker
 
 Insira um número quando solicitado, e o programa informará se o número pertence à sequência de Fibonacci.
 
+![Imagem](./Fibonacci%20Checker.png)
+
 
 ## Exercício 3 >
 
@@ -56,6 +60,8 @@ Como Executar:
 Utilize o comando para compilar : javac FaturamentoDistribuidora.java
 Utilize o comando para execução: java FaturamentoDistribuidora
 
+![Imagem](./Faturamento%20Distribuidora.png)
+
 
 ## Exercício 4 >
 
@@ -66,6 +72,8 @@ Utilizado Object.values(faturamento).reduce() para somar todos os valores de fat
 A função calcularPercentual calcula o percentual de faturamento de um estado em relação ao faturamento total.
 
 Iterando sobre cada estado no objeto faturamento, calculamos o percentual usando a função calcularPercentual, e exibimos o resultado formatado com duas casas decimais.
+
+![Imagem](./Faturamento%20exercicio%204.png)
 
 
 ## Exercício 5 Inversão >
@@ -78,3 +86,5 @@ No final, a função retorna a string invertida.
 Define stringOriginal como a string a ser invertida.
 Chama a função inverterString passando stringOriginal e armazena o resultado em stringInvertida.
 Exibe a string original e a string invertida no console.
+
+![Imagem](./Inversao.png)
